@@ -1,14 +1,14 @@
 import './App.css'
 import Header from './components/container/Header'
-import Footer from './components/container/Footer'
-import Table from './components/organims/Table'
+import Footer from './components/container/Footer' 
+import Body from './components/container/Body'
 function App() {
 
 
   return (
     <>
     <Header/>
-    <Table/>
+    <Body/>
     <Footer/>
     </>
   )

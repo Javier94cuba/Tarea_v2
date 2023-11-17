@@ -1,8 +1,9 @@
 import React from 'react'
+import Table from '../organims/Table'
 
 function Body() {
   return (
-    <div>Body</div>
+    <Table/>
   )
 }
 
