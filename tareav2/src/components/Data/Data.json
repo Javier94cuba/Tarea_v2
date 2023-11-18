@@ -1,0 +1,20 @@
+ [
+    {
+    "id": 1,
+    "name": "Admin" ,
+    "permissions" : [
+      {
+         "entity" : "Project",
+         "permissions": "WRITE"
+      }]
+    },
+    {
+      "id": 2,
+      "name": "User" ,
+      "permissions" : [
+        {
+           "entity" : "Project",
+           "permissions": "WRITE"
+        }]
+      }
+]
